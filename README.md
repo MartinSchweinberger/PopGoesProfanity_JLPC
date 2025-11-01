@@ -87,7 +87,7 @@ Here is a brief overview of the folder structure and contents:
 ## Citation  
 Please cite the article as:
 
-> Schweinberger, M. (2025). *Pop Goes Profanity: [full article title]*. Journal of Language & Politics.  
+> Putensen, L. F. & Schweinberger, M. (2025). *Pop Goes Profanity: [full article title]*. Journal of Language & Politics.  
 > Data and supplementary materials available at: [https://github.com/MartinSchweinberger/PopGoesProfanity_JLPC](https://github.com/MartinSchweinberger/PopGoesProfanity_JLPC)
 
 If you reuse the data or code, please also cite this repository.
@@ -95,13 +95,12 @@ If you reuse the data or code, please also cite this repository.
 ---
 
 ## License  
-Specify the license under which the code and data are available (e.g., CC-BY, MIT, etc.).  
-> *Insert chosen license here*
+MIT
 
 ---
 
 ## Contact  
-For questions about the data, code, or analysis, contact Martin Schweinberger (email: [insert email]).
+For questions about the data, code, or analysis, contact Martin Schweinberger (email: m.schweinbergerATuq.edu.au).
 
 ---
 
